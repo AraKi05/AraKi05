@@ -1,9 +1,9 @@
-# 👋 I'm araki
+# I'm araki
 
 Born: Feb 5, 2003
 
-I used to regret wasting time in the past, but now I’m focused on consistent learning and self-improvement.
-I document my progress to make sure I won’t look back with the same regrets 10 or 20 years from now.
+> I used to regret wasting time in the past, but now I’m focused on consistent learning and self-improvement.
+> I document my progress to make sure I won’t look back with the same regrets 10 or 20 years from now.
 
 💻 C++ Backend Developer
 
