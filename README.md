@@ -14,7 +14,9 @@ Born: Feb 5, 2003
 ## 🚀 About Me
 
 🎧 Into fashion, gaming, rap music, and sports
+
 🔧 Working with C++ / Linux, diving deeper into audio/video development and Golang
+
 🧠 I may not fit the typical “programmer” image, but I’m committed to growing and doing my work seriously
 
 ---
